@@ -1,0 +1,4 @@
+﻿  tekrar.cpp
+C:\Users\TOSHIBA\Desktop\animasyon\tekrar\tekrar.cpp(34,41): warning C4305: '+=': 'double' iken 'float' olarak kesildi
+C:\Users\TOSHIBA\Desktop\animasyon\tekrar\tekrar.cpp(36,14): warning C4244: '=': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  tekrar.vcxproj -> C:\Users\TOSHIBA\Desktop\animasyon\Debug\tekrar.exe
